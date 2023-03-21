@@ -24,7 +24,7 @@ main{
     align-items: center;
 }
 .container{
-    width: 18%;
+    width: 20rem;
     height: 75%;
     background-color: var(--deep-blue);
     border-radius: 2rem;
